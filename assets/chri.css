@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+    color: black;
+  }
+  
+  h1, h2 {
+    color: black;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: bold;
+  }
+  
+  h3 {
+    color: red;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: bold;
+  }
+  
+  a {
+    color: blue;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: bold;
+  }
+  
+  .container {
+    width: 90%;
+    margin: 0 auto;
+  }
+  
+  .header {
+    background-color: red;
+    padding: 20px;
+  }
+  
+  .main {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: bold;
+  }
+  
+  .footer {
+    background-color: blue;
+    padding: 20px;
+    text-align: center;
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: bold;
+  }
