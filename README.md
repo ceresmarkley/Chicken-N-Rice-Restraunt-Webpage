@@ -6,4 +6,5 @@ Chicken N Rice
 
 
 # When Menu us clicked on by user it will bring to Menu webpage
-![Capture1](https://user-images.githubusercontent.com/129554518/236009497-6be76ade-f75a-4ada-ac93-491dd6b36f8a.PNG)
+
+![Capture1](https://user-images.githubusercontent.com/129554518/236010228-4ec7e2df-0060-49f5-83c5-ef9982bacd27.PNG)
