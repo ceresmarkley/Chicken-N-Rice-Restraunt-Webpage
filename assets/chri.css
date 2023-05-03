@@ -1,34 +1,31 @@
 body {
-    background-color: white;
-    color: black;
+  font-family: 'Montserrat', sans-serif;
+  background-color: white;
+  color: black;
   }
   
   h1  {
     color: black;
     font-size: 300%;
     text-align: center;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;  
   }
 
   h2 {
     color: black;
     text-align: center;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold; 
   }
   
   h3 {
     color: red;
     text-align: center;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
   }
   
   a {
     color: blue;
     text-align: center;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
   }
 
@@ -58,7 +55,6 @@ body {
     text-align: center;
     display: block;
     margin: 0 auto;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
   }
   
@@ -66,7 +62,6 @@ body {
     background-color: white;
     padding: 20px;
     text-align: center;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
   }
   
@@ -102,6 +97,5 @@ body {
     background-color: blue;
     padding: 20px;
     text-align: center;
-    font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
   }
