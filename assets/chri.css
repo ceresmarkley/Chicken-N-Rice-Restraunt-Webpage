@@ -1,24 +1,24 @@
 body {
   font-family: 'Montserrat', sans-serif;
-  background-color: white;
+  background-color: #3C486B;
   color: black;
   }
   
   h1  {
-    color: black;
+    color: #F0F0F0;
     font-size: 300%;
     text-align: center;
     font-weight: bold;  
   }
 
   h2 {
-    color: black;
+    color: #F0F0F0;
     text-align: center;
     font-weight: bold; 
   }
   
   h3 {
-    color: red;
+    color: #F45050;
     text-align: center;
     font-weight: bold;
   }
@@ -35,38 +35,40 @@ body {
     margin: 0 auto;
   }
   
-  .header {
+  .menu {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 150%;
+    color: #F0F0F0;
+    margin: 0 auto;
+    font-weight: bold;
+  }
+  .header1 {
     display:flex;
+    flex-direction: column;
     align-items: center;
-    background-color: red;
+    color: #F0F0F0;
+    background-color: #3C486B(167, 23, 23);
     padding: 20px;
   }
 
   .chicken-img1  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     max-width: 15%;
     max-height: 15%;
-    margin-left: 20px;
-    margin-right: 20px;
   }
 
-  .menu {
-    font-size: 300%;
-    color: white;
-    text-align: center;
-    display: block;
-    margin: 0 auto;
-    font-weight: bold;
-  }
-  
   .main {
-    background-color: white;
+    background-color: #F0F0F0;
     padding: 20px;
-    text-align: center;
-    font-weight: bold;
+    text-align: center;;
   }
   
   .info {
-    background-color: aquamarine;
+    background-color: #F9D949;
   }
 
   .bowls {
@@ -94,7 +96,8 @@ body {
   }
   
   .footer {
-    background-color: blue;
+    background-color: #3C486B;
+    color:#F0F0F0;
     padding: 20px;
     text-align: center;
     font-weight: bold;
