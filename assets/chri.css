@@ -39,11 +39,13 @@ body {
   }
   
   .header {
+    display:flex;
+    align-items: center;
     background-color: red;
     padding: 20px;
   }
 
-  header img {
+  .chicken-img1  {
     max-width: 15%;
     max-height: 15%;
     margin-left: 20px;
@@ -66,6 +68,34 @@ body {
     text-align: center;
     font-family: "Comic Sans MS", sans-serif;
     font-weight: bold;
+  }
+  
+  .info {
+    background-color: aquamarine;
+  }
+
+  .bowls {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(173, 151, 151);
+    padding: 20px;
+  }
+
+  .snacks {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(165, 160, 228);
+    padding: 20px;
+  }
+
+  .beverages {
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(173, 151, 151);
+    padding: 20px;
   }
   
   .footer {
