@@ -20,7 +20,24 @@ body {
   h3 {
     color: #F45050;
     text-align: center;
+    font-size: 175%;
     font-weight: bold;
+  }
+
+  h4 {
+    color:black;
+    font-weight: bold;
+    font-size: 150%;
+    margin: 20px;
+
+  }
+
+  h5 {
+    color:#F0F0F0;
+    font-weight: bold;
+    font-size: 150%;
+    margin: 20px;
+
   }
   
   a {
@@ -31,6 +48,7 @@ body {
 
   
   .container {
+    display:flex;
     width: 90%;
     margin: 0 auto;
   }
@@ -75,24 +93,28 @@ body {
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(173, 151, 151);
+    background-color: #F0F0F0;
     padding: 20px;
+    font-size:120%;
   }
 
   .snacks {
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(165, 160, 228);
+    background-color: #3C486B;
+    color:#F0F0F0;
     padding: 20px;
+    font-size:120%;
   }
 
   .beverages {
     display:flex;
     flex-direction: column;
     align-items: center;
-    background-color: rgb(173, 151, 151);
+    background-color: #F0F0F0;
     padding: 20px;
+    font-size:120%;
   }
   
   .footer {
